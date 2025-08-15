@@ -1,0 +1,13 @@
+{
+  "name": "Color Swatch Widget",
+  "id": "1313075549057662417",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "figjam-widget",
+  "version": "1.0.0",
+  "description": "A FigJam widget for color swatches",
+  "main": "dist/code.js",
+  "scripts": {
+    "clean": "rm -rf dist",
+    "build": "npm run clean && webpack"
+  },
+  "author": "Pontus Karlsson",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.80.0",
+    "@figma/widget-typings": "^1.9.1",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
